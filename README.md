@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
-I'm Marine Georges 😄
+I'm Marine Georges, welcome on my github 😄
 
 ## About Me :computer:
 
