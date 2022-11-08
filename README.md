@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome on my page, 
+ 
 
 <!--
 **marinegrgs/marinegrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi there 👋
+I'm Marine Georges 😄
 
-    ☀️ I'm looking for a 3-month intership starting may 2023 in the field of Digital Health Engineering.
-    🎓 I'm a student in my 4th year (out of 5) at Junia ISEN, a French engineering school. 
-    🌱 I'm currently learning about Java and Python and working on projects for school.
-    📫 How to reach me:
-        marine.georges01@gmail.com
+## About Me :computer:
+
+  - ☀️ I'm looking for a 3-month intership starting may 2023 in the field of Digital Health Engineering.
+  - 🎓 I'm a 4th-year student (out of 5) at Junia ISEN, a French engineering school. 
+  - 🌱 I'm currently learning programming and data science languages. I am practicing on many school projects !
+  - 📫 How to reach me: <br>
+            <p>
+            <a href="https://www.linkedin.com/in/marine-georges/"><img src="https://img.shields.io/badge/-Marine_Georges-blue?logo=linkedin&style=flat-square"></a>
+            <a href="mailto:marine.georges01@gmail.com"><img src="https://img.shields.io/badge/-marine.georges01@gmail.com-white?logo=gmail&style=flat-square"/></a>
+            </p>
+           
         
