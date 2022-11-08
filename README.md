@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome on my page, 
 
 <!--
 **marinegrgs/marinegrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+    ☀️ I'm looking for a 3-month intership starting may 2023 in the field of Digital Health Engineering.
+    🎓 I'm a student in my 4th year (out of 5) at Junia ISEN, a French engineering school. 
+    🌱 I'm currently learning about Java and Python and working on projects for school.
+    📫 How to reach me:
+        marine.georges01@gmail.com
+        
