@@ -20,8 +20,8 @@ I'm Marine Georges, welcome on my github 😄
 
 ## About Me :computer:
 
-  - ☀️ I'm looking for a 3-month internship starting may 2023 in the field of Digital Health Engineering.
-  - 🎓 I'm a 4th-year student (out of 5) at Junia ISEN, a French engineering school. 
+  - ☀️ I'm looking for an internship starting may 2023 (3-4 months) in the field of Digital Health Engineering.
+  - 🎓 I'm a 4th-year student (Master 1) at Junia ISEN, a French engineering school, specialized in computer science and electronics. 
   - 🌱 I'm currently learning programming and data science languages. I am practicing on many school projects !
   - 📫 How to reach me: <br>
             <p>
