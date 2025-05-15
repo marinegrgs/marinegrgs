@@ -25,10 +25,10 @@ I'm Marine Georges, welcome on my github 😄
   - 🎓 I'm 
   - 🌱 I'm currently learning programming and data science languages. I am practicing on many academic projects ! 
   -->
- # 📫 How to reach me: <br>
-            <p>
-            <a href="https://www.linkedin.com/in/marine-georges/"><img src="https://img.shields.io/badge/-Marine_Georges-blue?logo=linkedin&style=flat-square"></a>
-            <a href="mailto:marine.georges01@gmail.com"><img src="https://img.shields.io/badge/-marine.georges01@gmail.com-white?logo=gmail&style=flat-square"/></a>
-            </p>
+#📫 How to reach me:
+<p>
+<a href="https://www.linkedin.com/in/marine-georges/"><img src="https://img.shields.io/badge/-Marine_Georges-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:marine.georges01@gmail.com"><img src="https://img.shields.io/badge/-marine.georges01@gmail.com-white?logo=gmail&style=flat-square"/></a>
+</p>
            
         
